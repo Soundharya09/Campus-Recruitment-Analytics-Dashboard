@@ -82,7 +82,7 @@ Provides a high-level snapshot of campus placement performance.
 ✅ Salary Distribution Overview
 
 #### 📷 Dashboard Preview:
-<img width="1173" height="577" alt="executive_dashboard" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Executive%20Overview.png)" />
+<img width="1173" height="577" alt="Executive Overview" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Executive%20Overview.png)" />
 
 ### 📚 Academic Performance Impact
 Analyzes how academic scores influence placement success.
@@ -94,7 +94,7 @@ Analyzes how academic scores influence placement success.
 ✅ Academic performance impact
 
 #### 📷 Dashboard Preview:
-<img width="1173" height="577" alt="executive_dashboard" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Academic%20Performance.png)" />
+<img width="1173" height="577" alt="Academic Performance" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Academic%20Performance.png)" />
 
 ### 👩‍🎓 Gender-based Placement Analysis
 Evaluates placement performance by gender.
@@ -106,7 +106,7 @@ Evaluates placement performance by gender.
 ✅ Hiring trends across genders
 
 #### 📷 Dashboard Preview:
-<img width="1173" height="577" alt="executive_dashboard" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Gender%20Analysis.png)" />
+<img width="1173" height="577" alt="Gender Analysis" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Gender%20Analysis.png)" />
 
 ### 💼 Experience & Internship Analysis
 Examines the role of internships and work experience.
@@ -118,7 +118,7 @@ Examines the role of internships and work experience.
 ✅ Impact of industry exposure
 
 #### 📷 Dashboard Preview:
-<img width="1173" height="577" alt="executive_dashboard" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db1ef5565c80da]
+<img width="1173" height="577" alt="Internship & Experience Impact" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db1ef5565c80da]
 (https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Internship%20%26%20Experience%20Impact.png)" />
 
 ### 💰 Salary Deep Dive
@@ -133,7 +133,7 @@ Analyzes salary outcomes across students.
 ✅ Salary spread across placed students
 
 #### 📷 Dashboard Preview:
-<img width="1173" height="577" alt="executive_dashboard" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Salary%20Deep%20Dive.png)" />
+<img width="1173" height="577" alt="Salary Deep Dive" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Salary%20Deep%20Dive.png)" />
 
 ### 🎓 MBA & Specialization Impact 
 Analyzes how MBA status and specialization influence placement opportunities and salary packages.
@@ -145,7 +145,7 @@ Analyzes how MBA status and specialization influence placement opportunities and
 ✅ Hiring trends across different academic backgrounds
 
 #### 📷 Dashboard Preview:
-<img width="1173" height="577" alt="executive_dashboard" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da]
+<img width="1173" height="577" alt="MBA & Specialization Impact" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da]
 (https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/MBA%20%26%20Specialization%20Impact.png)" />
 
 ### 🧠 Skill-Based Placement Analysis
@@ -158,7 +158,7 @@ Evaluates how technical, aptitude, and communication skills affect placements.
 ✅ Communication score vs salary
 
 #### 📷 Dashboard Preview
-<img width="1173" height="577" alt="executive_dashboard" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Skill%20Impact.png)" />
+<img width="1173" height="577" alt="Skill Impact" src="[https://github.com/user-attachments/assets/0a4457ba-9640-4af9-a5db-1ef5565c80da](https://github.com/Soundharya09/Campus-Recruitment-Analytics-Dashboard/blob/master/Dashboard%20Images/Skill%20Impact.png)" />
 
 ## 📈 Key Insights from the Project
 - Students with strong technical and aptitude scores have a higher placement probability
